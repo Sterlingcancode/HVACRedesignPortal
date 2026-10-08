@@ -1,0 +1,15 @@
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\obj\Debug\net10.0\HVACRedesignPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\obj\Debug\net10.0\HVACRedesignPortal.AssemblyInfoInputs.cache
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\obj\Debug\net10.0\HVACRedesignPortal.AssemblyInfo.cs
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\obj\Debug\net10.0\HVACRedesignPortal.csproj.CoreCompileInputs.cache
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\bin\Debug\net10.0\HVACRedesignPortal.exe
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\bin\Debug\net10.0\HVACRedesignPortal.deps.json
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\bin\Debug\net10.0\HVACRedesignPortal.runtimeconfig.json
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\bin\Debug\net10.0\HVACRedesignPortal.dll
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\bin\Debug\net10.0\HVACRedesignPortal.pdb
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\obj\Debug\net10.0\HVACRedesignPortal.dll
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\obj\Debug\net10.0\refint\HVACRedesignPortal.dll
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\obj\Debug\net10.0\HVACRedesignPortal.pdb
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\obj\Debug\net10.0\HVACRedesignPortal.genruntimeconfig.cache
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\obj\Debug\net10.0\ref\HVACRedesignPortal.dll
+C:\Users\sterl\Desktop\SD assignments\Week 3\HVACRedesignPortal\HVACRedesignPortal\obj\Debug\net10.0\HVACRede.76D1518A.Up2Date

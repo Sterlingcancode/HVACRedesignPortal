@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FADCB15-AB57-EF3D-106E-7DDE98A2175E}|HVACRedesignPortal\\HVACRedesignPortal.csproj|c:\\users\\sterl\\desktop\\sd assignments\\week 3\\hvacredesignportal\\hvacredesignportal\\smarthvacunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FADCB15-AB57-EF3D-106E-7DDE98A2175E}|HVACRedesignPortal\\HVACRedesignPortal.csproj|solutionrelative:hvacredesignportal\\smarthvacunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FADCB15-AB57-EF3D-106E-7DDE98A2175E}|HVACRedesignPortal\\HVACRedesignPortal.csproj|c:\\users\\sterl\\desktop\\sd assignments\\week 3\\hvacredesignportal\\hvacredesignportal\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FADCB15-AB57-EF3D-106E-7DDE98A2175E}|HVACRedesignPortal\\HVACRedesignPortal.csproj|solutionrelative:hvacredesignportal\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FADCB15-AB57-EF3D-106E-7DDE98A2175E}|HVACRedesignPortal\\HVACRedesignPortal.csproj|c:\\users\\sterl\\desktop\\sd assignments\\week 3\\hvacredesignportal\\hvacredesignportal\\hvacredesignportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FADCB15-AB57-EF3D-106E-7DDE98A2175E}|HVACRedesignPortal\\HVACRedesignPortal.csproj|solutionrelative:hvacredesignportal\\hvacredesignportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FADCB15-AB57-EF3D-106E-7DDE98A2175E}|HVACRedesignPortal\\HVACRedesignPortal.csproj|c:\\users\\sterl\\desktop\\sd assignments\\week 3\\hvacredesignportal\\hvacredesignportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FADCB15-AB57-EF3D-106E-7DDE98A2175E}|HVACRedesignPortal\\HVACRedesignPortal.csproj|solutionrelative:hvacredesignportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sterl\\Desktop\\SD assignments\\Week 2\\IDiagnosable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FADCB15-AB57-EF3D-106E-7DDE98A2175E}|HVACRedesignPortal\\HVACRedesignPortal.csproj|c:\\users\\sterl\\desktop\\sd assignments\\week 3\\hvacredesignportal\\hvacredesignportal\\hvacunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FADCB15-AB57-EF3D-106E-7DDE98A2175E}|HVACRedesignPortal\\HVACRedesignPortal.csproj|solutionrelative:hvacredesignportal\\hvacunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FADCB15-AB57-EF3D-106E-7DDE98A2175E}|HVACRedesignPortal\\HVACRedesignPortal.csproj|c:\\users\\sterl\\desktop\\sd assignments\\week 3\\hvacredesignportal\\hvacredesignportal\\idiagnosable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FADCB15-AB57-EF3D-106E-7DDE98A2175E}|HVACRedesignPortal\\HVACRedesignPortal.csproj|solutionrelative:hvacredesignportal\\idiagnosable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\HVACRedesignPortal\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "HVACRedesignPortal\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\HVACRedesignPortal\\InventoryManager.cs",
+              "RelativeToolTip": "HVACRedesignPortal\\InventoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T03:23:06.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HVACRedesignPortal",
+              "DocumentMoniker": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\HVACRedesignPortal\\HVACRedesignPortal.csproj",
+              "RelativeDocumentMoniker": "HVACRedesignPortal\\HVACRedesignPortal.csproj",
+              "ToolTip": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\HVACRedesignPortal\\HVACRedesignPortal.csproj",
+              "RelativeToolTip": "HVACRedesignPortal\\HVACRedesignPortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T03:19:59.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDiagnosable.cs",
+              "DocumentMoniker": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\HVACRedesignPortal\\IDiagnosable.cs",
+              "RelativeDocumentMoniker": "HVACRedesignPortal\\IDiagnosable.cs",
+              "ToolTip": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\HVACRedesignPortal\\IDiagnosable.cs",
+              "RelativeToolTip": "HVACRedesignPortal\\IDiagnosable.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T02:43:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartHVACUnit.cs",
+              "DocumentMoniker": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\HVACRedesignPortal\\SmartHVACUnit.cs",
+              "RelativeDocumentMoniker": "HVACRedesignPortal\\SmartHVACUnit.cs",
+              "ToolTip": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\HVACRedesignPortal\\SmartHVACUnit.cs*",
+              "RelativeToolTip": "HVACRedesignPortal\\SmartHVACUnit.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T02:42:46.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HVACUnit.cs",
+              "DocumentMoniker": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\HVACRedesignPortal\\HVACUnit.cs",
+              "RelativeDocumentMoniker": "HVACRedesignPortal\\HVACUnit.cs",
+              "ToolTip": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\HVACRedesignPortal\\HVACUnit.cs",
+              "RelativeToolTip": "HVACRedesignPortal\\HVACUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T02:41:33.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDiagnosable.cs",
+              "DocumentMoniker": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 2\\IDiagnosable.cs",
+              "RelativeDocumentMoniker": "..\\..\\Week 2\\IDiagnosable.cs",
+              "ToolTip": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 2\\IDiagnosable.cs",
+              "RelativeToolTip": "..\\..\\Week 2\\IDiagnosable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T02:35:36.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\HVACRedesignPortal\\Program.cs",
+              "RelativeDocumentMoniker": "HVACRedesignPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\sterl\\Desktop\\SD assignments\\Week 3\\HVACRedesignPortal\\HVACRedesignPortal\\Program.cs",
+              "RelativeToolTip": "HVACRedesignPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T02:25:22.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
